@@ -1,2 +1,2 @@
 # Php
- Uma simples loja de salgados feita em php
+ Alguns exercicios feitos em php, para demonstrar meu conhecimento da linguaguem.
